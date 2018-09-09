@@ -13,7 +13,7 @@
   export default {
     data () {
       return {
-        isIndex : false
+        isIndex : true
       };
     },
     created:function(){
